@@ -16,3 +16,5 @@
 - Kafta & Kafta connect;
 - Docker & Kubernets;
 - Istio, Kiali, Prometheus e Grafona;
+
+## Simulador de rotas:
